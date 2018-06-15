@@ -10,9 +10,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Button btn1;
 
-        //branch test
 
+        //여기는 jerry branch
+
+
+
+        
     }
 
 }
